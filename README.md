@@ -4,7 +4,7 @@
 I grew up in the GTA and I love coding, cycling, and weightlifting!
 
 🌱 I’m currently learning ...\
-Frontend dev (JS, ReactJS, Node.js) and improving my Python Skills!
+C++
 
 
 <!--
