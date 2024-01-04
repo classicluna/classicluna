@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### About me:
-I grew up in the GTA and I love coding, cycling, and weightlifting!
+I grew up in the GTA and I love coding, climbing, and running!
 
 🌱 I’m currently learning ...\
 C++
